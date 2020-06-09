@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/heluansantos.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/heluansantos.github.io/static/js/main.e7e2ba24.chunk.js",
-    "main.js.map": "/heluansantos.github.io/static/js/main.e7e2ba24.chunk.js.map",
+    "main.js": "/heluansantos.github.io/static/js/main.88518971.chunk.js",
+    "main.js.map": "/heluansantos.github.io/static/js/main.88518971.chunk.js.map",
     "runtime-main.js": "/heluansantos.github.io/static/js/runtime-main.76b13707.js",
     "runtime-main.js.map": "/heluansantos.github.io/static/js/runtime-main.76b13707.js.map",
     "static/js/2.e69d780f.chunk.js": "/heluansantos.github.io/static/js/2.e69d780f.chunk.js",
     "static/js/2.e69d780f.chunk.js.map": "/heluansantos.github.io/static/js/2.e69d780f.chunk.js.map",
     "index.html": "/heluansantos.github.io/index.html",
-    "precache-manifest.834f55309982aec91832ce2d251a3ef6.js": "/heluansantos.github.io/precache-manifest.834f55309982aec91832ce2d251a3ef6.js",
+    "precache-manifest.287b10bbcd4697d36785bc48e084ac6b.js": "/heluansantos.github.io/precache-manifest.287b10bbcd4697d36785bc48e084ac6b.js",
     "service-worker.js": "/heluansantos.github.io/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/heluansantos.github.io/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.e69d780f.chunk.js.LICENSE.txt": "/heluansantos.github.io/static/js/2.e69d780f.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.76b13707.js",
     "static/js/2.e69d780f.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e7e2ba24.chunk.js"
+    "static/js/main.88518971.chunk.js"
   ]
 }
